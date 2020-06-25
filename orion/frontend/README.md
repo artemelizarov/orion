@@ -1,2 +1,3 @@
-# test__orion
-test
+# orion
+npm install
+npm start
