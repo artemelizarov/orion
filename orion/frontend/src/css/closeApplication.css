@@ -1,0 +1,21 @@
+.closeApplication {
+  position: fixed;
+  top: 30%;
+  height: 40%;
+  left: 30%;
+  width: 40%;
+  display: grid;
+  grid-template-rows: 30% 25% 25% 20%;
+  grid-template-columns: 1fr;
+}
+
+.closeApplication > div.select {
+  grid-row: 2/3;
+  grid-column: 1/2;
+  justify-self: center;
+  align-self: center;
+}
+
+.closeApplication > div.inputUpdate {
+  grid-row: 3/4;
+}

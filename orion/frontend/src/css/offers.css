@@ -1,0 +1,70 @@
+.offers {
+  position: fixed;
+  left: 20%;
+  width: 60%;
+  top: 15%;
+  height: 70%;
+  display: grid;
+  grid-template-rows: 15% 65% 10% 10%;
+  grid-template-columns: 1fr 1fr;
+}
+
+.offers > div.table {
+  grid-column: 1/3;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 50% 50%;
+  height: 100%;
+  grid-gap: 4px;
+}
+
+.offers > div.table > div.ratesItem {
+  display: grid;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.offers > div.table > div.ratesItem > p.heading {
+  font-size: 10px;
+  justify-self: center;
+  align-self: center;
+}
+
+.offers > div.table > div.ratesItem > p.price {
+  font-size: 14px;
+  justify-self: center;
+  align-self: center;
+  font-weight: bold;
+}
+
+.offers > div.table > div.ratesItem > p.speed {
+  font-size: 12px;
+  justify-self: center;
+  align-self: end;
+  font-weight: bold;
+}
+
+.offers > div.table > div.ratesItem > p.priceRentRouter {
+  font-size: 10px;
+  justify-self: center;
+  align-self: center;
+}
+
+.offers > div.table > div.ratesItem > p.numberChannels {
+  font-size: 10px;
+  justify-self: center;
+  align-self: end;
+}
+
+.offers > div.select {
+  grid-row: 3/4;
+  grid-column: 1/3;
+  justify-self: center;
+  align-self: center;
+}
+
+.linkUpdate {
+  grid-row: 4/5;
+}

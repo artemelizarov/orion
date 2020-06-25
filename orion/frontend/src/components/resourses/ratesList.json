@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Alpha 220",
+    "price": 220,
+    "speed": 100,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 350",
+    "price": 350,
+    "speed": 20,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 500",
+    "price": 500,
+    "speed": 60,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 660",
+    "price": 660,
+    "speed": 100,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 720",
+    "price": 720,
+    "speed": 25,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 880",
+    "price": 880,
+    "speed": 150,
+    "priceRentRouter": 30,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion Home 940",
+    "price": 940,
+    "speed": 45,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 1100",
+    "price": 1100,
+    "speed": 200,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 1320",
+    "price": 1320,
+    "speed": 65,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  },
+  {
+    "name": "Orion 1500",
+    "price": 1500,
+    "speed": 300,
+    "priceRentRouter": 20,
+    "numberChannels": 0
+  }
+]
